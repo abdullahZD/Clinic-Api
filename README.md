@@ -11,6 +11,10 @@ This project includes user authentication, scheduling, and other necessary funct
 - API documentation with Swagger
 
 
+## ER Diagram
+![Untitled](https://github.com/user-attachments/assets/8346cb7e-40e7-46e1-9110-5817798a5cd2)
+
+
 
 ## Requirements
 - Python 3.9
